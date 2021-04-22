@@ -5,6 +5,10 @@
         <name>ApexEmailNotifications</name>
     </types>
     <types>
+        <members>AppleWatch</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
